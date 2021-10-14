@@ -2,7 +2,7 @@
 
 ## Fato sobre Douglas Braz Batista
 
-1. O seu Nome; 
+1. O seu Nome
 Douglas Braz Batista
 
 2. Um pouco sobre você; 
