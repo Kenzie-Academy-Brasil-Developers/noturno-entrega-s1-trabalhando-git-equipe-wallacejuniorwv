@@ -1,4 +1,4 @@
 Fato sobre <Wallace_Junior>
 Wallace Souza de Oliveira Junior;
-Escolhi a area de TI devido logo cedo ter tido contato com computador e sempre ser amante da computacao. Meu conhecimento de TI e intermediario. Cursei Sistemas de informacao na categoria de Bacharel e quero muito ser um programador de verdade.;
-Meu relacionamento com TI e no dia a dia. Trabalho com TI desde os meus 16 anos.;
+Eu Escolhi a area de TI devido logo cedo ter tido contato com computador e sempre ser amante da computacao. Meu conhecimento de TI e intermediario. Cursei Sistemas de informacao na categoria de Bacharel e quero muito ser um programador de verdade.;
+Meu relacionamento com TI e no dia a dia. Trabalho com TI desde os meus 16 anos.
